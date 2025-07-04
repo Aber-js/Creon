@@ -16,7 +16,8 @@ Creon is a mobile-first Web3 platform for creators to monetize their work, recei
 
 | Feature                     | Status | Description |
 |-----------------------------|--------|-------------|
-| 🏆 Grant Discovery          | 🔜     | Browse & apply for creator grants (e.g., Superteam) |
+| 🏆 Grant Discovery          | 🔜     | Discover & apply for creator grants (e.g., Superteam) |
+| 🤝 Collaborative Royalties      | 🔜     | Co-creation support with revenue-splitting smart contracts |
 | 🔒 Token-Gated Content      | 🔜     | Unlock premium assets via NFTs/tokens |
 | 📊 Earnings Dashboard       | 🔜     | Analytics for views, earnings, tips |
 | 🧾 Multi-chain Auth (ACC)   | 🔜     | Adobe Certified Creator verification system |
