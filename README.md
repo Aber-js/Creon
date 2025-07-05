@@ -1,4 +1,4 @@
-# 🧩 Creon – Web3 Creator Economy Platform
+# Creon – Web3 Creator Economy Platform
 
 Creon is a mobile-first Web3 platform for creators to monetize their work, receive crypto tips, and access grant opportunities — starting with NFT profiles and wallet integration.
 
